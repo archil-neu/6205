@@ -191,7 +191,10 @@ public class UF_HWQUPC implements UF {
      * This implements the single-pass path-halving mechanism of path compression
      */
     private void doPathCompression(int i) {
-
         parent[i] = parent[parent[i]];
+        height[i]--;
+        if (parent[i] != i ){
+            doPathCompression(parent[i]);
+        }
     }
 }

@@ -684,3 +684,727 @@
 2021-02-03 20:07:24 DEBUG Config - Config.get(instrumenting, inversions) = 1
 2021-02-03 20:07:24 DEBUG Config - Config.get(instrumenting, fixes) = true
 2021-02-03 20:07:24 DEBUG Config - Config.get(helper, cutoff) = 
+2021-03-02 11:35:45 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 pair,  with 100 runs
+2021-03-02 11:35:45 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:37:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 pair,  with 100 runs
+2021-03-02 11:37:40 INFO  UF_Benchmarks - 1.220 ms
+2021-03-02 11:38:53 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 pair,  with 100 runs
+2021-03-02 11:38:54 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:38:54 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 pair,  with 100 runs
+2021-03-02 11:38:54 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:38:54 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 pair,  with 100 runs
+2021-03-02 11:38:54 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 11:38:54 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 pair,  with 100 runs
+2021-03-02 11:38:54 INFO  UF_Benchmarks - 0.570 ms
+2021-03-02 11:38:54 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 pair,  with 100 runs
+2021-03-02 11:38:54 INFO  UF_Benchmarks - 1.250 ms
+2021-03-02 11:38:54 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 pair,  with 100 runs
+2021-03-02 11:38:54 INFO  UF_Benchmarks - 2.440 ms
+2021-03-02 11:38:54 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 pair,  with 100 runs
+2021-03-02 11:38:55 INFO  UF_Benchmarks - 8.290 ms
+2021-03-02 11:38:55 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 pair,  with 100 runs
+2021-03-02 11:38:56 INFO  UF_Benchmarks - 7.610 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:41:07 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:41:07 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:41:07 INFO  UF_Benchmarks - 0.060 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:41:07 INFO  UF_Benchmarks - 0.380 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:41:07 INFO  UF_Benchmarks - 1.310 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:41:07 INFO  UF_Benchmarks - 2.530 ms
+2021-03-02 11:41:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:41:08 INFO  UF_Benchmarks - 8.280 ms
+2021-03-02 11:41:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:41:09 INFO  UF_Benchmarks - 7.840 ms
+2021-03-02 11:41:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:41:12 INFO  UF_Benchmarks - 29.180 ms
+2021-03-02 11:41:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:41:47 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:41:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:41:47 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:41:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:41:47 INFO  UF_Benchmarks - 0.070 ms
+2021-03-02 11:41:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:41:47 INFO  UF_Benchmarks - 0.410 ms
+2021-03-02 11:41:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:41:47 INFO  UF_Benchmarks - 1.200 ms
+2021-03-02 11:41:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:41:48 INFO  UF_Benchmarks - 2.120 ms
+2021-03-02 11:41:48 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:41:48 INFO  UF_Benchmarks - 5.160 ms
+2021-03-02 11:41:48 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:41:49 INFO  UF_Benchmarks - 7.090 ms
+2021-03-02 11:41:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 27.070 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 0.120 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 0.750 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:41:52 INFO  UF_Benchmarks - 1.790 ms
+2021-03-02 11:41:52 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:41:53 INFO  UF_Benchmarks - 4.190 ms
+2021-03-02 11:41:53 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:41:53 INFO  UF_Benchmarks - 6.310 ms
+2021-03-02 11:41:53 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:41:56 INFO  UF_Benchmarks - 27.180 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:42:37 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:42:37 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:42:37 INFO  UF_Benchmarks - 0.050 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:42:37 INFO  UF_Benchmarks - 0.410 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:42:37 INFO  UF_Benchmarks - 1.060 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:42:37 INFO  UF_Benchmarks - 1.810 ms
+2021-03-02 11:42:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:42:38 INFO  UF_Benchmarks - 5.050 ms
+2021-03-02 11:42:38 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:42:39 INFO  UF_Benchmarks - 6.490 ms
+2021-03-02 11:42:39 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 25.740 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 0.130 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 0.750 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 1.740 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:42:42 INFO  UF_Benchmarks - 3.990 ms
+2021-03-02 11:42:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:42:43 INFO  UF_Benchmarks - 6.120 ms
+2021-03-02 11:42:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:42:46 INFO  UF_Benchmarks - 25.370 ms
+2021-03-02 11:55:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:55:40 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:55:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:55:40 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:55:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:55:40 INFO  UF_Benchmarks - 0.050 ms
+2021-03-02 11:55:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:55:41 INFO  UF_Benchmarks - 0.570 ms
+2021-03-02 11:55:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:55:41 INFO  UF_Benchmarks - 1.410 ms
+2021-03-02 11:55:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:55:41 INFO  UF_Benchmarks - 2.300 ms
+2021-03-02 11:55:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:55:42 INFO  UF_Benchmarks - 7.830 ms
+2021-03-02 11:55:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:55:43 INFO  UF_Benchmarks - 7.600 ms
+2021-03-02 11:55:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 28.490 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 0.140 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 0.790 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:55:46 INFO  UF_Benchmarks - 1.870 ms
+2021-03-02 11:55:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:55:47 INFO  UF_Benchmarks - 3.960 ms
+2021-03-02 11:55:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:55:47 INFO  UF_Benchmarks - 6.530 ms
+2021-03-02 11:55:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:55:50 INFO  UF_Benchmarks - 25.910 ms
+2021-03-02 11:57:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:57:34 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:57:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:57:34 INFO  UF_Benchmarks - 0.060 ms
+2021-03-02 11:57:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:57:34 INFO  UF_Benchmarks - 0.190 ms
+2021-03-02 11:57:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:57:34 INFO  UF_Benchmarks - 0.240 ms
+2021-03-02 11:57:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:57:35 INFO  UF_Benchmarks - 1.400 ms
+2021-03-02 11:57:35 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:57:35 INFO  UF_Benchmarks - 1.990 ms
+2021-03-02 11:57:35 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:57:35 INFO  UF_Benchmarks - 5.510 ms
+2021-03-02 11:57:35 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:57:36 INFO  UF_Benchmarks - 7.590 ms
+2021-03-02 11:57:36 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:57:39 INFO  UF_Benchmarks - 28.210 ms
+2021-03-02 11:57:39 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 221.170 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 0.110 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 0.780 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 1.790 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 11:58:04 INFO  UF_Benchmarks - 3.850 ms
+2021-03-02 11:58:04 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 11:58:05 INFO  UF_Benchmarks - 6.230 ms
+2021-03-02 11:58:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 11:58:08 INFO  UF_Benchmarks - 27.000 ms
+2021-03-02 11:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 11:59:01 INFO  UF_Benchmarks - 506.370 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 13:31:47 INFO  UF_Benchmarks - 0.110 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 13:31:47 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 13:31:47 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 13:31:47 INFO  UF_Benchmarks - 0.410 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 13:31:47 INFO  UF_Benchmarks - 2.580 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 13:31:47 INFO  UF_Benchmarks - 3.160 ms
+2021-03-02 13:31:47 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 13:31:48 INFO  UF_Benchmarks - 7.750 ms
+2021-03-02 13:31:48 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 13:31:49 INFO  UF_Benchmarks - 11.930 ms
+2021-03-02 13:31:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 13:31:53 INFO  UF_Benchmarks - 35.160 ms
+2021-03-02 13:31:53 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 436.630 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 0.150 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 0.860 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 2.230 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 13:32:43 INFO  UF_Benchmarks - 5.590 ms
+2021-03-02 13:32:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 13:32:45 INFO  UF_Benchmarks - 9.720 ms
+2021-03-02 13:32:45 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 13:32:48 INFO  UF_Benchmarks - 32.760 ms
+2021-03-02 13:32:48 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 13:33:38 INFO  UF_Benchmarks - 452.160 ms
+2021-03-02 13:50:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 13:50:49 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 13:50:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 13:50:49 INFO  UF_Benchmarks - 0.120 ms
+2021-03-02 13:50:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 13:50:49 INFO  UF_Benchmarks - 0.380 ms
+2021-03-02 13:50:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 13:50:49 INFO  UF_Benchmarks - 1.270 ms
+2021-03-02 13:50:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 13:50:49 INFO  UF_Benchmarks - 5.020 ms
+2021-03-02 13:50:49 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 13:50:51 INFO  UF_Benchmarks - 11.520 ms
+2021-03-02 13:50:51 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 13:50:53 INFO  UF_Benchmarks - 23.240 ms
+2021-03-02 13:50:53 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 13:50:57 INFO  UF_Benchmarks - 34.200 ms
+2021-03-02 13:50:57 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 13:51:14 INFO  UF_Benchmarks - 144.440 ms
+2021-03-02 13:51:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 13:53:26 INFO  UF_Benchmarks - 1127.710 ms
+2021-03-02 13:53:26 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 13:53:26 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 13:53:26 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 13:53:26 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 13:53:26 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 13:53:26 INFO  UF_Benchmarks - 0.090 ms
+2021-03-02 13:53:26 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 13:53:26 INFO  UF_Benchmarks - 0.210 ms
+2021-03-02 13:53:26 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 13:53:26 INFO  UF_Benchmarks - 4.850 ms
+2021-03-02 13:53:26 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 13:53:27 INFO  UF_Benchmarks - 5.190 ms
+2021-03-02 13:53:27 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 13:53:28 INFO  UF_Benchmarks - 6.830 ms
+2021-03-02 13:53:28 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 13:53:29 INFO  UF_Benchmarks - 12.910 ms
+2021-03-02 13:53:29 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 13:53:38 INFO  UF_Benchmarks - 78.010 ms
+2021-03-02 13:53:38 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 13:55:47 INFO  UF_Benchmarks - 1127.440 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 15:58:07 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:07 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 15:58:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 15:58:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 15:58:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 15:58:10 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:02:40 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:40 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:02:41 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:41 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:02:42 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:42 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:02:43 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:02:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:02:44 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:05:28 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:05:28 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:05:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:05:31 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:05:32 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:05:32 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:05:33 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:05:33 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:05:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:05:34 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:05:35 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:05:35 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:05:36 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:05:36 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:05:37 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:05:38 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:05:39 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:05:43 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:05:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:06:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:07:34 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:07:34 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:08:43 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:08:43 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:08:46 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:08:46 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:09:10 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:09:32 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:11:59 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:11:59 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:11:59 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:11:59 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:11:59 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:11:59 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:11:59 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:11:59 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:11:59 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:11:59 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:11:59 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.080 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.100 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.120 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:12:05 INFO  UF_Benchmarks - 0.090 ms
+2021-03-02 16:12:05 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.090 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.240 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:12:06 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:06 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:12:08 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:12:08 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:12:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:18:55 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.080 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.060 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.080 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:33:09 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.050 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.080 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:14 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:33:14 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:33:15 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:15 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.150 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.090 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.060 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:33:16 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:33:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:33:18 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:37:09 INFO  UF_Benchmarks - 0.080 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:37:09 INFO  UF_Benchmarks - 0.090 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:37:09 INFO  UF_Benchmarks - 0.060 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:37:09 INFO  UF_Benchmarks - 0.460 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:37:09 INFO  UF_Benchmarks - 0.930 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:37:09 INFO  UF_Benchmarks - 2.140 ms
+2021-03-02 16:37:09 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:37:10 INFO  UF_Benchmarks - 4.390 ms
+2021-03-02 16:37:10 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:37:10 INFO  UF_Benchmarks - 7.990 ms
+2021-03-02 16:37:10 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:37:13 INFO  UF_Benchmarks - 21.260 ms
+2021-03-02 16:37:13 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:37:29 INFO  UF_Benchmarks - 138.770 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 0.050 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 0.410 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 1.040 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 1.480 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:37:50 INFO  UF_Benchmarks - 3.740 ms
+2021-03-02 16:37:50 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:37:51 INFO  UF_Benchmarks - 6.430 ms
+2021-03-02 16:37:51 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:37:53 INFO  UF_Benchmarks - 19.350 ms
+2021-03-02 16:37:53 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:38:12 INFO  UF_Benchmarks - 168.360 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 16:43:31 INFO  UF_Benchmarks - 0.070 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 16:43:31 INFO  UF_Benchmarks - 0.050 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 16:43:31 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 16:43:31 INFO  UF_Benchmarks - 0.340 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 16:43:31 INFO  UF_Benchmarks - 1.080 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 16:43:31 INFO  UF_Benchmarks - 1.630 ms
+2021-03-02 16:43:31 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 16:43:32 INFO  UF_Benchmarks - 5.110 ms
+2021-03-02 16:43:32 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 16:43:33 INFO  UF_Benchmarks - 7.620 ms
+2021-03-02 16:43:33 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 16:43:35 INFO  UF_Benchmarks - 22.030 ms
+2021-03-02 16:43:35 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 178.910 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 10 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 100 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 0.100 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 200 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 0.230 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 1000 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 0.310 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 5000 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 1.410 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 10000 sites,  with 100 runs
+2021-03-02 16:43:56 INFO  UF_Benchmarks - 3.100 ms
+2021-03-02 16:43:56 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 20000 sites,  with 100 runs
+2021-03-02 16:43:57 INFO  UF_Benchmarks - 7.290 ms
+2021-03-02 16:43:57 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 30000 sites,  with 100 runs
+2021-03-02 16:43:58 INFO  UF_Benchmarks - 11.470 ms
+2021-03-02 16:43:58 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 100000 sites,  with 100 runs
+2021-03-02 16:44:04 INFO  UF_Benchmarks - 54.100 ms
+2021-03-02 16:44:04 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 500000 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 722.020 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 10 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 100 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 200 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 0.020 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 1000 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 0.190 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 5000 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 1.420 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 10000 sites,  with 100 runs
+2021-03-02 16:45:24 INFO  UF_Benchmarks - 3.110 ms
+2021-03-02 16:45:24 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 20000 sites,  with 100 runs
+2021-03-02 16:45:25 INFO  UF_Benchmarks - 7.890 ms
+2021-03-02 16:45:25 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 30000 sites,  with 100 runs
+2021-03-02 16:45:27 INFO  UF_Benchmarks - 12.090 ms
+2021-03-02 16:45:27 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 100000 sites,  with 100 runs
+2021-03-02 16:45:33 INFO  UF_Benchmarks - 53.920 ms
+2021-03-02 16:45:33 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 500000 sites,  with 100 runs
+2021-03-02 16:46:48 INFO  UF_Benchmarks - 685.610 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10 sites,  with 100 runs
+2021-03-02 17:07:16 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100 sites,  with 100 runs
+2021-03-02 17:07:16 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 200 sites,  with 100 runs
+2021-03-02 17:07:16 INFO  UF_Benchmarks - 0.040 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 1000 sites,  with 100 runs
+2021-03-02 17:07:16 INFO  UF_Benchmarks - 0.480 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 5000 sites,  with 100 runs
+2021-03-02 17:07:16 INFO  UF_Benchmarks - 1.460 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 10000 sites,  with 100 runs
+2021-03-02 17:07:16 INFO  UF_Benchmarks - 1.750 ms
+2021-03-02 17:07:16 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 20000 sites,  with 100 runs
+2021-03-02 17:07:17 INFO  UF_Benchmarks - 3.660 ms
+2021-03-02 17:07:17 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 30000 sites,  with 100 runs
+2021-03-02 17:07:17 INFO  UF_Benchmarks - 7.360 ms
+2021-03-02 17:07:17 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 100000 sites,  with 100 runs
+2021-03-02 17:07:20 INFO  UF_Benchmarks - 20.790 ms
+2021-03-02 17:07:20 INFO  Benchmark_Timer - Begin run: Weighted Quick Union with depth size tracking for 500000 sites,  with 100 runs
+2021-03-02 17:07:44 INFO  UF_Benchmarks - 218.600 ms
+2021-03-02 17:07:44 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 10 sites,  with 100 runs
+2021-03-02 17:07:44 INFO  UF_Benchmarks - 0.010 ms
+2021-03-02 17:07:44 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 100 sites,  with 100 runs
+2021-03-02 17:07:44 INFO  UF_Benchmarks - 0.180 ms
+2021-03-02 17:07:44 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 200 sites,  with 100 runs
+2021-03-02 17:07:44 INFO  UF_Benchmarks - 0.140 ms
+2021-03-02 17:07:44 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 1000 sites,  with 100 runs
+2021-03-02 17:07:44 INFO  UF_Benchmarks - 0.320 ms
+2021-03-02 17:07:44 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 5000 sites,  with 100 runs
+2021-03-02 17:07:44 INFO  UF_Benchmarks - 1.480 ms
+2021-03-02 17:07:44 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 10000 sites,  with 100 runs
+2021-03-02 17:07:45 INFO  UF_Benchmarks - 3.320 ms
+2021-03-02 17:07:45 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 20000 sites,  with 100 runs
+2021-03-02 17:07:45 INFO  UF_Benchmarks - 7.910 ms
+2021-03-02 17:07:45 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 30000 sites,  with 100 runs
+2021-03-02 17:07:47 INFO  UF_Benchmarks - 11.570 ms
+2021-03-02 17:07:47 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 100000 sites,  with 100 runs
+2021-03-02 17:07:53 INFO  UF_Benchmarks - 55.310 ms
+2021-03-02 17:07:53 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - with path compression for 500000 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 697.040 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 10 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 0.000 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 100 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 0.030 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 200 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 0.050 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 1000 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 0.230 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 5000 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 1.140 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 10000 sites,  with 100 runs
+2021-03-02 17:09:10 INFO  UF_Benchmarks - 2.320 ms
+2021-03-02 17:09:10 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 20000 sites,  with 100 runs
+2021-03-02 17:09:11 INFO  UF_Benchmarks - 5.490 ms
+2021-03-02 17:09:11 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 30000 sites,  with 100 runs
+2021-03-02 17:09:12 INFO  UF_Benchmarks - 8.840 ms
+2021-03-02 17:09:12 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 100000 sites,  with 100 runs
+2021-03-02 17:09:16 INFO  UF_Benchmarks - 35.480 ms
+2021-03-02 17:09:16 INFO  Benchmark_Timer - Begin run: Height-weighted Quick Union with Path Compression - without path compression. for 500000 sites,  with 100 runs
+2021-03-02 17:09:51 INFO  UF_Benchmarks - 318.620 ms
